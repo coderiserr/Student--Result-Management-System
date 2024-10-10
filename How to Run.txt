@@ -1,0 +1,16 @@
+copy paste srms folder in root directory
+
+open xampp control panel
+start apache and mysql
+open browser
+enter URL localhost/phpmyadmin/
+create a database with name srms
+import the sql file 
+in url enter localhost/srms/
+Go
+
+Admin Login
+
+Username- admin
+Password- pass@123
+
